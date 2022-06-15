@@ -9,7 +9,7 @@ import Projects from './pages/Projects'
 import About from './pages/About';
 
 
-const URL = 'http://localhost:4000/';
+const URL = 'https://mern-portfolio-frontend.herokuapp.com/';
 
 function App() {
   return (
